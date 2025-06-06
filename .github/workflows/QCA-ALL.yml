@@ -47,7 +47,7 @@ jobs:
       #默认主机名
       WRT_NAME: OWRT
       #默认WIFI名称
-      WRT_SSID: DD5G
+      WRT_SSID: DOUDOU
       #默认WIFI密码
       WRT_WORD: YANGSIQI
       #默认地址
